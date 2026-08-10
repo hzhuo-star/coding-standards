@@ -1,0 +1,4 @@
+interface:
+  display_name: "TypeScript Coding Standards"
+  short_description: "Correct-by-construction TypeScript standards"
+  default_prompt: "Use $coding-standards to guide this TypeScript change."
